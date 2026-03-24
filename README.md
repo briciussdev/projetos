@@ -1,6 +1,7 @@
+
 ---
 
-##🎨 Tecnologias Utilizadas
+## 🎨 Tecnologias Utilizadas
 
 - **HTML5** - Estrutura semântica
 - **Tailwind CSS** (CDN) - Estilização responsiva
